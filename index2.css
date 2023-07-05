@@ -14,3 +14,8 @@ h3{
     background-color: tomato;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+ol{
+    color: rgb(3, 65, 98);
+    background-color: hotpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
