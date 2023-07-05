@@ -1,0 +1,16 @@
+p{
+    background-color: bisque;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+h2{
+    color: rgb(255, 80, 229);
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+h3{
+    color: cadetblue;
+    background-color: tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
